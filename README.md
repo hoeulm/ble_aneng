@@ -12,5 +12,5 @@ The ESP32 itself exports the DMM Data via
   <li>a SERIAL Interface</li>
   <li>a LCD ( M5-Stick CPlus has a 240x135 Color-Display)</li>
   <li>a WebServer which runs directly on the ESP32</li>
-  <li>a UPP-Service which directly runs also on the ESP32
+  <li>a WebSock-Service for the DMM-Data Record which directly runs also on the ESP32
 </ul>
